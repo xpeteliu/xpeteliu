@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Xinyue (Pete) Liu
 - 👀 I’m interested in programming in Java, C++ & Python
-- 🌱 I’m currently a Master student of Computer & Info Tech @ Penn Engineering
+- 🌱 I’m currently a Master's student of Computer & Info Tech @ Penn Engineering
 - 💞️ I’m looking to collaborate on microservice projects
 - 📫 Email me at xpeteliu@seas.upenn.edu
 

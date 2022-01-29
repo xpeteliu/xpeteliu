@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Xinyue (Pete) Liu
-- 👀 I’m interested in programming in Java, C++ & Python
-- 🌱 I’m currently a Master's student of Computer & Info Tech @ Penn Engineering
-- 💞️ I’m looking to collaborate on microservice projects
+- 👀 I am most comfortable with programming in C++, JavaScript, Java & Python, but I am familiar with many other languages
+- 🌱 I have experiences working with React, Express, Spring, SQL, Redis, MongoDB, Elasticsearch, Apache Spark, Apache Kafka, AWS, etc., and I always love to learn new technologies. 
+- 💞️ I aspire to build networking applications that can efficiently handle real-world big data and present the web data in the most user-friendly way
 - 📫 Email me at xpeteliu@seas.upenn.edu
 
 <!---
